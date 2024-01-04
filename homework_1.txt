@@ -1,0 +1,34 @@
+1. Best practices:
+https://chartio.com/blog/best-practices-for-developing-an-elt-pipeline/
+
+2. understanding and probs
+https://medium.com/hashmapinc/etl-understanding-it-and-effectively-using-it-f827a5b3e54d
+
+3. techniques for efficiency
+https://www.precisely.com/blog/big-data/etl-best-practices
+
+4. better performance 
+https://aws.amazon.com/blogs/big-data/top-8-best-practices-for-high-performance-etl-processing-using-amazon-redshift/
+
+5. use kafkas idea
+https://www.confluent.io/blog/how-to-build-a-scalable-etl-pipeline-with-kafka-connect/
+
+6. upgrade technique
+https://www.fivetran.com/blog/building-efficient-data-pipelines-with-incremental-updates
+
+7. gen link
+https://cloud.google.com/architecture/dw2bq/dw-bq-data-pipelines
+
+8. how does databricks solve the 4 problems
+https://databricks.com/blog/2020/08/18/how-to-accelerate-your-etl-pipelines-from-18-hours-to-as-fast-as-5-minutes-with-azure-databricks.html
+
+9. optimization techniques
+https://www.researchgate.net/publication/341435560_Performance_Optimization_of_ETL_Process
+
+10. conceptual design and approach techniques
+https://link.springer.com/article/10.1007/s00778-017-0477-2
+
+11. simple understanding of etl tech
+https://www.techtarget.com/searchdatamanagement/feature/How-to-build-an-all-purpose-big-data-pipeline-architecture
+
+12.
